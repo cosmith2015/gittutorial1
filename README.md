@@ -1,2 +1,2 @@
-## a practice run with github. for NRES 800: Sampling, Data Management, and Visualization class. See course description here. 
-##Implement best practices for scientific computing. Practice with a scientific workflow from the design of the sampling scheme, through generation of the data in the field or lab, up to the point of analysis. Understand cognitive constraints on visualization. Use modern software tools to produce publication quality data visualizations.
+## a practice run with github. for NRES 800: Sampling, Data Management, and Visualization class. Course Description 
+Implement best practices for scientific computing. Practice with a scientific workflow from the design of the sampling scheme, through generation of the data in the field or lab, up to the point of analysis. Understand cognitive constraints on visualization. Use modern software tools to produce publication quality data visualizations.
