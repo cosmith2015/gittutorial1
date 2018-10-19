@@ -7,7 +7,7 @@
 library(tidyverse)
 library(dplyr)
 
-fish_data %>%  mutate (length_cat=case_when(length >= 200 ~ "Big", length<200 ~ "Small" ))->Fishes 
+fish_data %>%  mutate (length_cat=case_when(length >= 300 ~ "Big", length<200 ~ "Small" ))->Fishes 
 
 head(Fishes) 
 
